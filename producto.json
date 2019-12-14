@@ -1,0 +1,398 @@
+[
+  {
+    "Producto_ID": 0,
+    "NombreProducto": "NO IDENTIFICADO 0"
+  },
+  {
+    "Producto_ID": 9,
+    "NombreProducto": "Capuccino Moka 750g NES 9"
+  },
+  {
+    "Producto_ID": 41,
+    "NombreProducto": "Bimbollos Ext sAjonjoli 6p 480g BIM 41"
+  },
+  {
+    "Producto_ID": 53,
+    "NombreProducto": "Burritos Sincro 170g CU LON 53"
+  },
+  {
+    "Producto_ID": 72,
+    "NombreProducto": "Div Tira Mini Doradita 4p 45g TR 72"
+  },
+  {
+    "Producto_ID": 73,
+    "NombreProducto": "Pan Multigrano Linaza 540g BIM 73"
+  },
+  {
+    "Producto_ID": 98,
+    "NombreProducto": "Tostado Integral 180g WON 98"
+  },
+  {
+    "Producto_ID": 99,
+    "NombreProducto": "Pan Blanco 567g WON 99"
+  },
+  {
+    "Producto_ID": 100,
+    "NombreProducto": "Super Pan Bco Ajonjoli 680g SP WON 100"
+  },
+  {
+    "Producto_ID": 106,
+    "NombreProducto": "Wonder 100pct mediano 475g WON 106"
+  },
+  {
+    "Producto_ID": 107,
+    "NombreProducto": "Wonder 100pct gde 680g SP WON 107"
+  },
+  {
+    "Producto_ID": 108,
+    "NombreProducto": "Baguette Precocida Cong 280g DH 108"
+  },
+  {
+    "Producto_ID": 109,
+    "NombreProducto": "Pan Multicereal 475g WON 109"
+  },
+  {
+    "Producto_ID": 112,
+    "NombreProducto": "Tostado Integral 180g WON 112"
+  },
+  {
+    "Producto_ID": 122,
+    "NombreProducto": "Biscotel Receta Original 410g CU SUA 122"
+  },
+  {
+    "Producto_ID": 123,
+    "NombreProducto": "Super Bollos 5in 8p 540g WON 123"
+  },
+  {
+    "Producto_ID": 125,
+    "NombreProducto": "Bollos 8p 450g WON 125"
+  },
+  {
+    "Producto_ID": 131,
+    "NombreProducto": "Bollos BK 4in 36p 1635g SL 131"
+  },
+  {
+    "Producto_ID": 132,
+    "NombreProducto": "Bollos BK 5in 30p 1730g SL 132"
+  },
+  {
+    "Producto_ID": 134,
+    "NombreProducto": "Bollos BK 4in 30p 1635g TIR SL 134"
+  },
+  {
+    "Producto_ID": 135,
+    "NombreProducto": "Bollos BK 5in 20p 1730g TIR SL 135"
+  },
+  {
+    "Producto_ID": 141,
+    "NombreProducto": "Hot Dogs 8p 290g WON 141"
+  },
+  {
+    "Producto_ID": 145,
+    "NombreProducto": "Super Hot Dogs 8p 435g WON 145"
+  },
+  {
+    "Producto_ID": 151,
+    "NombreProducto": "Medias Noches 24p 470g BK SL 151"
+  },
+  {
+    "Producto_ID": 157,
+    "NombreProducto": "Bollo WB 5in snAjn 20p 1950g SL 157"
+  },
+  {
+    "Producto_ID": 160,
+    "NombreProducto": "Molido Bolsa 180g WON 160"
+  },
+  {
+    "Producto_ID": 161,
+    "NombreProducto": "Bollos KFC 5in 15p 1237g WON 161"
+  },
+  {
+    "Producto_ID": 162,
+    "NombreProducto": "Molido 25Kg WON 162"
+  },
+  {
+    "Producto_ID": 163,
+    "NombreProducto": "Molido 5Kg WON 163"
+  },
+  {
+    "Producto_ID": 179,
+    "NombreProducto": "Tostado Int 0pct Grasa Azucar 200g WON 179"
+  },
+  {
+    "Producto_ID": 183,
+    "NombreProducto": "Tortillas Harina 260g 10p WON 183"
+  },
+  {
+    "Producto_ID": 202,
+    "NombreProducto": "Bollos 5in 12p 976g SL 202"
+  },
+  {
+    "Producto_ID": 205,
+    "NombreProducto": "Bollos 4in 18p 1000g SL 205"
+  },
+  {
+    "Producto_ID": 214,
+    "NombreProducto": "Bollos Carls Jr 1080g SL 214"
+  },
+  {
+    "Producto_ID": 217,
+    "NombreProducto": "Hot Dog Estilo Sonora 500g BIM 217"
+  },
+  {
+    "Producto_ID": 248,
+    "NombreProducto": "Marias 170g TAB LAR 248"
+  },
+  {
+    "Producto_ID": 303,
+    "NombreProducto": "Dalmata 1p 55g MLA 303"
+  },
+  {
+    "Producto_ID": 306,
+    "NombreProducto": "Chocotorro Fresa 1p 50g MLA 306"
+  },
+  {
+    "Producto_ID": 308,
+    "NombreProducto": "Dalmata 1p 55g MLA 308"
+  },
+  {
+    "Producto_ID": 321,
+    "NombreProducto": "Tuinky Chocolate 2p 76g WON 321"
+  },
+  {
+    "Producto_ID": 322,
+    "NombreProducto": "Tuinky Fresas con Crema 2p WON 322"
+  },
+  {
+    "Producto_ID": 323,
+    "NombreProducto": "Tuinky Chocolate 3p 114g WON 323"
+  },
+  {
+    "Producto_ID": 325,
+    "NombreProducto": "Tuinky Vainilla 3p 114g WON 325"
+  },
+  {
+    "Producto_ID": 328,
+    "NombreProducto": "Tuinky Fresas Crema 3p 114g WON 328"
+  },
+  {
+    "Producto_ID": 357,
+    "NombreProducto": "Panitos Chocolate 30g WON 357"
+  },
+  {
+    "Producto_ID": 412,
+    "NombreProducto": "Canelitas Inst 30g MLA 412"
+  },
+  {
+    "Producto_ID": 523,
+    "NombreProducto": "Dalmata 1p 55g Tira MLA 523"
+  },
+  {
+    "Producto_ID": 614,
+    "NombreProducto": "Bombonete SC 55g Cj MLA 614"
+  },
+  {
+    "Producto_ID": 617,
+    "NombreProducto": "Canelitas 900g MLA 617"
+  },
+  {
+    "Producto_ID": 630,
+    "NombreProducto": "Nito ME 4p 248g BIM 630"
+  },
+  {
+    "Producto_ID": 632,
+    "NombreProducto": "Mantecadas ME 8p 250g BIM 632"
+  },
+  {
+    "Producto_ID": 634,
+    "NombreProducto": "Donitas Espolvoreadas ME 12p 210g BIM 634"
+  },
+  {
+    "Producto_ID": 635,
+    "NombreProducto": "Donas Azucar ME 8p 210g BIM 635"
+  },
+  {
+    "Producto_ID": 641,
+    "NombreProducto": "Bollo Extra Grande 15p 1200g BIM 641"
+  },
+  {
+    "Producto_ID": 665,
+    "NombreProducto": "Figatza 345g BIM 665"
+  },
+  {
+    "Producto_ID": 693,
+    "NombreProducto": "Tostada Plana 15p 175g MR 693"
+  },
+  {
+    "Producto_ID": 713,
+    "NombreProducto": "Pan Multigrano 680g ORO 713"
+  },
+  {
+    "Producto_ID": 714,
+    "NombreProducto": "7 Granos 680g ORO 714"
+  },
+  {
+    "Producto_ID": 715,
+    "NombreProducto": "Pan 100pct Integral 680g ORO 715"
+  },
+  {
+    "Producto_ID": 739,
+    "NombreProducto": "Saladas 200p 2 4Kg LAR 739"
+  },
+  {
+    "Producto_ID": 779,
+    "NombreProducto": "Pan Blanco Silueta 500g BIM 779"
+  },
+  {
+    "Producto_ID": 799,
+    "NombreProducto": "Mini Principe 45g MLA 799"
+  },
+  {
+    "Producto_ID": 815,
+    "NombreProducto": "Tostada Ondulada Reg 30p 360g MR 815"
+  },
+  {
+    "Producto_ID": 831,
+    "NombreProducto": "Gansito 10p 500g MLA 831"
+  },
+  {
+    "Producto_ID": 890,
+    "NombreProducto": "Tostada Tubo 3pq 360g MR 890"
+  },
+  {
+    "Producto_ID": 897,
+    "NombreProducto": "Tostada Ond Tubo 30p 360g Prom MR 897"
+  },
+  {
+    "Producto_ID": 915,
+    "NombreProducto": "Bolillo Congelado 80g DH 915"
+  },
+  {
+    "Producto_ID": 972,
+    "NombreProducto": "Roles Canela 6p 365g BIM 972"
+  },
+  {
+    "Producto_ID": 1031,
+    "NombreProducto": "Pan Bolsa 2a 500g BIM 1031"
+  },
+  {
+    "Producto_ID": 1039,
+    "NombreProducto": "Pan 12 Granos 680g ORO 1039"
+  },
+  {
+    "Producto_ID": 1064,
+    "NombreProducto": "Panque Marmol 255g BIM 1064"
+  },
+  {
+    "Producto_ID": 1101,
+    "NombreProducto": "Tortillinas Gde McD 500g Cn TR 1101"
+  },
+  {
+    "Producto_ID": 1109,
+    "NombreProducto": "Pan Blanco Chico 360g BIM 1109"
+  },
+  {
+    "Producto_ID": 1111,
+    "NombreProducto": "Pan Blanco 2Pq 1360g BIM 1111"
+  },
+  {
+    "Producto_ID": 1112,
+    "NombreProducto": "Super Pan Blanco 740g BIM 1112"
+  },
+  {
+    "Producto_ID": 1120,
+    "NombreProducto": "Pan Blanco 680g BIM 1120"
+  },
+  {
+    "Producto_ID": 1124,
+    "NombreProducto": "Tortillinas 10p 365g Promo 50pct TR 1124"
+  },
+  {
+    "Producto_ID": 1125,
+    "NombreProducto": "Tortillinas 10p 255g TR 1125"
+  },
+  {
+    "Producto_ID": 1126,
+    "NombreProducto": "Tortillinas Grande 10p 510g TR 1126"
+  },
+  {
+    "Producto_ID": 1129,
+    "NombreProducto": "Tortillinas 20p 510g TR 1129"
+  },
+  {
+    "Producto_ID": 1134,
+    "NombreProducto": "Tortilla Hna 22p 840g Conv DH 1134"
+  },
+  {
+    "Producto_ID": 1136,
+    "NombreProducto": "Jugos Guayaba Sonrisas 350ml VR 1136"
+  },
+  {
+    "Producto_ID": 1143,
+    "NombreProducto": "Pan Integral Gde 2pq 1360g BIM 1143"
+  },
+  {
+    "Producto_ID": 1144,
+    "NombreProducto": "Pan Integral 480g BIM 1144"
+  },
+  {
+    "Producto_ID": 1145,
+    "NombreProducto": "Pan Integral 680g BIM 1145"
+  },
+  {
+    "Producto_ID": 1146,
+    "NombreProducto": "Pan Integral 675g BIM 1146"
+  },
+  {
+    "Producto_ID": 1147,
+    "NombreProducto": "Tostada Plana 15p 230g DH 1147"
+  },
+  {
+    "Producto_ID": 1148,
+    "NombreProducto": "Tostada Plana de Maiz 20p 180g DH 1148"
+  },
+  {
+    "Producto_ID": 1150,
+    "NombreProducto": "Medias Noches 8p 340g BIM 1150"
+  },
+  {
+    "Producto_ID": 1153,
+    "NombreProducto": "Medias Noches 16p 680g BIM 1153"
+  },
+  {
+    "Producto_ID": 1156,
+    "NombreProducto": "Tortillinas 50p 1 31Kg TR 1156"
+  },
+  {
+    "Producto_ID": 1160,
+    "NombreProducto": "Bimbollos 8p 450g BIM 1160"
+  },
+  {
+    "Producto_ID": 1164,
+    "NombreProducto": "Bimbollos 12p 675g BIM 1164"
+  },
+  {
+    "Producto_ID": 1166,
+    "NombreProducto": "Bollo Regular 2pq 30p McD BIM 1166"
+  },
+  {
+    "Producto_ID": 1167,
+    "NombreProducto": "Bollos Quarter Pounder McD 30p 1700g BIM 1167"
+  },
+  {
+    "Producto_ID": 1168,
+    "NombreProducto": "Bollo Big Mac 30p 1200g McD BIM 1168"
+  },
+  {
+    "Producto_ID": 1169,
+    "NombreProducto": "Bimbollos Extra 6p 480g BIM 1169"
+  },
+  {
+    "Producto_ID": 1178,
+    "NombreProducto": "Chino Congelado 72g Cj DH 1178"
+  },
+  {
+    "Producto_ID": 1180,
+    "NombreProducto": "Tostado 210g BIM 1180"
+  }
+]
