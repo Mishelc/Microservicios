@@ -1,0 +1,41 @@
+<!--ventana emergente-->
+<div class="modal fade" id="modal_edit_person_group" tabindex="-1" role="dialog"  aria-hidden="true">
+    <form action="/edit/<%= product._id %>" method="POST"  autocomplete="off">
+   <div class="modal-dialog" role="document"> 
+    <div class="modal-content">  
+       <div class="modal-header">
+         <h5 class="modal-title" id="exampleModalLabel"> Editar nuevo producto</h5>
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close"> 
+         </button>
+       </div>
+
+       <div class="modal-body" >
+     
+       <div>
+           <label>Nombre de producto*</label><label class="validation-error hide" id="fullNameValidationError">Ingresar Nombre</label>
+           <input type="text" name="nombre" id="nombre" value="<%= product.nombre %>">
+       </div>
+       <div>
+          <label>Categoria</label>
+           <input type="text" name="categoria" id="categoria" value="<%= product.categoria %>">
+       </div>
+       <div>
+           <label>Marca</label>
+           <input type="text" name="marca" id="marca" value="<%= product.marca %>">
+       </div>
+       <div>
+           <label>Precio</label><label class="validation-error hide" id="fullNameValidationError">Ingresar Precio</label>
+           <input type="text" name="precio" id="precio" value="<%= product.precio %>">
+       </div> 
+       <div class="modal-footer">
+         <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        <button type="submit" class="btn btn-primary">Agregar</button>
+       </div> 
+</div>
+
+
+     </div> 
+   </div>
+ </form>
+ </div>  
+ <!--fin de ventana emergente --> 
