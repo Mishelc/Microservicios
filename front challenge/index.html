@@ -1,0 +1,136 @@
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>CHALLENGE </title> 
+    <link rel="stylesheet" href="vendors/simple-line-icons/css/simple-line-icons.css">
+    <link rel="stylesheet" href="vendors/flag-icon-css/css/flag-icon.min.css"> 
+    <link rel="stylesheet" href="./css/style.css"> 
+  </head>
+
+
+  <body>
+    <!--PARTE DE ARRIBA-->
+    <div class="container-scroller"> 
+      <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row"> 
+        <div class="navbar-menu-wrapper d-flex align-items-center flex-grow-1">
+          <h5 class="mb-0 font-weight-medium d-none d-lg-flex">¡AGREGAR PRODUCTOS!</h5>
+          <ul class="navbar-nav navbar-nav-right ml-auto">  
+            <li class="nav-item dropdown language-dropdown d-none d-sm-flex align-items-center">
+              <a class="nav-link d-flex align-items-center dropdown-toggle" id="LanguageDropdown" href="" data-toggle="dropdown" aria-expanded="false">
+                <div class="d-inline-flex mr-3">
+                  <i class="flag-icon flag-icon-es"></i>
+                </div>
+                <span class="profile-text font-weight-normal">Español</span> 
+              </a>
+              
+              <div class="dropdown-menu dropdown-menu-left navbar-dropdown py-2" aria-labelledby="LanguageDropdown">
+                <a class="dropdown-item">
+                  <i class="flag-icon flag-icon-us"></i> Ingles </a> 
+              </div>
+            </li> 
+            <li class="nav-item dropdown d-none d-xl-inline-flex user-dropdown">
+              <a class="nav-link dropdown-toggle" id="UserDropdown" href="#" data-toggle="dropdown" aria-expanded="false">
+                <img class="img-xs rounded-circle ml-2" src="./imagenes/portada.jpg" alt="Profile image"> <span class="font-weight-normal"> AMIAS IBM <3 </span></a>
+              <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="UserDropdown">
+                <div class="dropdown-header text-center">
+                  <img class="img-xs rounded-circle" src="./imagenes/portada.jpg" alt="Profile image">
+                  <p class="mb-1 mt-3">TEAM CLOUD!</p> 
+                </div> 
+                <a class="dropdown-item" href="./index.html"><i class="dropdown-item-icon icon-energy text-primary"></i> Inicio</a> 
+              </div>
+            </li> 
+          </ul> 
+          <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+            <span class="icon-menu"></span>
+          </button>
+        </div>
+      </nav>               
+
+
+        <!-- CONTENIDO -->
+  <div class="content-wrapper">  
+        <div class="card">
+        <div class="card-body">
+              <h4  style="text-align: center;"> Tabla de productos </h4><br>  
+              <h5>Productos <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_create_person_group"> Agregar / Editar </button></h5>
+            <!--ventana emergente-->
+              <div class="modal fade" id="modal_create_person_group" tabindex="-1" role="dialog"  aria-hidden="true">
+                 <form onsubmit="event.preventDefault();onFormSubmit();" autocomplete="off">
+                <div class="modal-dialog" role="document"> 
+                 <div class="modal-content">  
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLabel"> Ingresar nuevo producto</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"> 
+                      </button>
+                    </div>
+
+                    <div class="modal-body" >
+                       <div>
+                        <label>Id</label>
+                        <input type="text" name="id" id="id">
+                    </div>
+                    <div>
+                        <label>Nombre de producto*</label><label class="validation-error hide" id="fullNameValidationError">Ingresar Nombre</label>
+                        <input type="text" name="nombre" id="nombre">
+                    </div>
+                    <div>
+                       <label>Categoria</label>
+                        <input type="text" name="categoria" id="categoria">
+                    </div>
+                    <div>
+                        <label>Marca</label>
+                        <input type="text" name="marca" id="marca">
+                    </div>
+                    <div>
+                        <label>Precio</label><label class="validation-error hide" id="fullNameValidationError">Ingresar Precio</label>
+                        <input type="text" name="precio" id="precio">
+                    </div> 
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                     <button type="submit" class="btn btn-primary">Agregar</button>
+                    </div> 
+</div>
+
+
+                  </div> 
+                </div>
+              </form>
+              </div>  
+              <!--fin de ventana emergente --> 
+             <table class="table table-bordered" class="list" id="employeeList">
+                  <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Nombre</th>
+                            <th>Categoria</th>
+                            <th>Marca</th>
+                            <th>Precio</th> 
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody class="person-group-list">
+
+                    </tbody>
+                </table>
+              </div>
+              </div> 
+ </div> 
+  
+           
+          
+          <footer class="footer">
+            <div class="d-sm-flex justify-content-center justify-content-sm-between">
+              <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">2019 <a href="https://www.bootstrapdash.com/" target="_blank"> </span>
+              <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">  <i class="icon-heart text-danger"></i></span>
+            </div>
+          </footer> 
+   </div>
+</body>   
+
+
+    <script src="./js/script.js"></script>
+    <script src="vendors/js/vendor.bundle.base.js"></script>     
+     
+</html>
