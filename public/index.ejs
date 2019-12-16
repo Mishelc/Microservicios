@@ -16,7 +16,7 @@
     <div class="container-scroller"> 
       <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row"> 
         <div class="navbar-menu-wrapper d-flex align-items-center flex-grow-1">
-          <h5 class="mb-0 font-weight-medium d-none d-lg-flex">¡AGREGAR PRODUCTOS!</h5>
+          <img src="imagenes\logo.png">
           <ul class="navbar-nav navbar-nav-right ml-auto">  
             <li class="nav-item dropdown language-dropdown d-none d-sm-flex align-items-center">
               <a class="nav-link d-flex align-items-center dropdown-toggle" id="LanguageDropdown" href="" data-toggle="dropdown" aria-expanded="false">
@@ -55,7 +55,9 @@
         <div class="card">
         <div class="card-body">
               <h4  style="text-align: center;"> Tabla de productos </h4><br>  
-              <h5>Productos <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_create_person_group"> Agregar / Editar </button></h5>
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_create_person_group"> Agregar / Editar </button>
+              <br>
+            </br>
             <!--ventana emergente-->
               <div class="modal fade" id="modal_create_person_group" tabindex="-1" role="dialog"  aria-hidden="true">
                  <form action="/add" method="POST"  autocomplete="off">
@@ -118,10 +120,10 @@
                           <td><%= product[i].precio %></td>
                           <td>
                             <a href="/delete/<%= product[i]._id %>"
-                              class="btn btn-danger">
+                              class="btn btn-outline-primary">
                               Delete
                             </a>
-                            <a href="/edit/<%= product[i]._id %>" class="btn btn-info" data-toggle="modal" data-target="#modal_edit_person_group">
+                            <a href="/edit/<%= product[i]._id %>" class="btn btn-outline-primary" data-toggle="modal" data-target="#modal_edit_person_group">
                               Edit
                             </a>
                           </td>
@@ -134,14 +136,14 @@
  </div> 
   
            
-          <!--
+          
           <footer class="footer">
             <div class="d-sm-flex justify-content-center justify-content-sm-between">
-              <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">2019 <a href="https://www.bootstrapdash.com/" target="_blank"> </span>
-              <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">  <i class="icon-heart text-danger"></i></span>
+              <span class="text-muted text-center text-sm-left d-block d-sm-inline-block"><p>&copy; 2019 Amias IBM<p> <a href="https://www.bootstrapdash.com/" target="_blank"> </span>
+              <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"></i></span>
             </div>
           </footer> 
-          -->
+          
    </div>
 </body>   
 
