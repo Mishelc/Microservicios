@@ -1,0 +1,140 @@
+{	"products" : [
+	{
+    		"NombreProducto": "Te Verde"
+    		"Categoria":"Bedida"
+    		"Marca": "Dharamsala"
+    		"Precio": 1.5
+	},
+	{
+    		"NombreProducto": "Cerveza tibetana"
+    		"Categoria":"Bebida"
+    		"Marca": "Barley"
+    		"Precio": 9.5
+  	}
+	{
+    		"NombreProducto": "Jugo de Naranja Fresco"
+    		"Categoria":"Bebida"
+    		"Marca": "Naturale"
+    		"Precio": 2.6
+  	}
+	{
+    		"NombreProducto": "Agua mineral"
+    		"Categoria":"Bebida"
+    		"Marca": "San Mateo"
+    		"Precio": 2.0
+ 	}
+	
+	{
+    		"NombreProducto": "Gaseosa 3L"
+    		"Categoria":"Bebida"
+    		"Marca": "Coca Cola"
+    		"Precio": 10.9
+  	}
+	{
+    		"NombreProducto": "Sirope de regaliz"
+    		"Categoria":"Condimentos"
+    		"Marca": "Acise"
+    		"Precio": 4
+  	}
+	{
+    		"NombreProducto": "Especias Cajun del chef"
+    		"Categoria":"Condimentos"
+    		"Marca": "Anton"
+    		"Precio": 1.5
+  	}
+	{
+    		"NombreProducto": "Mermelada"
+    		"Categoria":"Condimentos"
+    		"Marca": "Groselia"
+    		"Precio": 12.5
+  	}
+	{
+    		"NombreProducto": "Ají Especial Sobre"
+    		"Categoria":"Condimentos"
+    		"Marca": "Sibarita"
+    		"Precio": 2.1
+  	}
+	{
+    		"NombreProducto": "Mix Parrillero Frasco 51 Gr."
+    		"Categoria":"Condimentos"
+    		"Marca": "4 Estaciones"
+    		"Precio": 14.99
+  	}
+	{
+    		"NombreProducto": "Peras secas"
+    		"Categoria":"Frutas/Verduras"
+    		"Marca": "Tio Bob"
+    		"Precio": 20
+ 	}
+	{
+    		"NombreProducto": "Maracuya 1kg"
+    		"Categoria":"Frutas/Verduras"
+    		"Marca": "Tio Bob"
+    		"Precio": 7.5
+  	}
+	{
+    		"NombreProducto": "Platano Bizcocho x5 unidades"
+   		"Categoria":"Frutas/Verduras"
+    		"Marca": "La Florencia"
+    		"Precio": 4.99
+  	}
+	{
+    		"NombreProducto": "Granadilla Oxapampa x Unidad"
+    		"Categoria":"Frutas/Verduras"
+    		"Marca": "Plaza Vea"
+    		"Precio": 0.69
+  	}
+	{
+    		"NombreProducto": "Aguaymanto pelado"
+    		"Categoria":"Frutas/Verduras"
+    		"Marca": "La Florencia"
+    		"Precio": 3.99
+  	}
+	{
+    		"NombreProducto": "Queso Cabrales"
+    		"Categoria":"Lacteos"
+    		"Marca": "Danuska"
+    		"Precio": 9.5
+  	}
+	{
+    		"NombreProducto": "Queso Edan"
+    		"Categoria":"Lacteos"
+    		"Marca": "Laive"
+    		"Precio": 2.5
+  	}
+	{
+    		"NombreProducto": "Yogurt"
+    		"Categoria":"Lacteos"
+    		"Marca": "Gloria"
+    		"Precio": 6.5
+  	}
+	{
+    		"NombreProducto": "Margarina swis barra"
+    		"Categoria":"Lacteos"
+    		"Marca": "Laive"
+    		"Precio": 1.99
+  	}
+	{
+    		"NombreProducto": "Mezcla Lactea Evaporada x6 unidades"
+    		"Categoria":"Lacteos"
+    		"Marca": "Laive"
+    		"Precio": 14.89
+  	}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
