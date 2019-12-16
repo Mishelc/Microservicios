@@ -15,7 +15,8 @@ mongoose.connect('mongodb://localhost/productos')
 
 // importing routes
 const indexRoutes = require('./routes/index');
-
+//variables globales
+app.locals=global.config.site;
 // settings
 app.set('port', process.env.PORT || 3000);
 app.set('views', './public');
